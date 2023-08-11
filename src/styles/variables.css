@@ -1,0 +1,8 @@
+:root {
+    --btn-gradient-color: linear-gradient(271deg, #FFA800, #FF6F00); 
+    --text-color: #272727;
+    --btn-hover-color: #E9EEF3;
+    --bg-color: #F7F7F7;
+    --bg-header-color: #FFFFFF;
+    --stroke-color: #979797;
+}
